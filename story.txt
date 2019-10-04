@@ -1,1 +1,1 @@
-Once upon a time, there was a man named Joe, who lived in an apartment.
+Once upon a time there was a man named Joe, who lived in an apartment. He was having a bad day, because his code was working exactly as he wrote it. Otherwise known as "his code was not working".
