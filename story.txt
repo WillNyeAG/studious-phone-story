@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nobody paid much attention to John – just a normal teenager at a high school where the social elite happen to possess unthinkable powers and abilities. But John’s got a secret past that threatens to bring down the school’s whole social order – and much more. Fulfilling his destiny won’t be easy though, because there are battles, frenemies and deadly conspiracies around every corner.
+=======
+Once upon a time, there was a man named Joe, who lived in an apartment.
+>>>>>>> 6d876d68c23800b7307455c3012fac7fe6175857
